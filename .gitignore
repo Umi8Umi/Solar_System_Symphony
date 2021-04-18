@@ -9,6 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+# folders im adding :)
+/[Bb]in/
+/Assets/ImportedAssets/StarSkybox04/CubemapStars.cubemap
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
